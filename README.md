@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi, I am Dejan 👋
+
+- 🔭 I’m currently working on building React Native applications with NodeJS backend
+- 🌱 I’m currently re-learning Machine learning and getting deeper into emerging AI ecosystem
+
+Get in touch so we can collaborate!
 
 <!--
 **dexpetkovic/dexpetkovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
