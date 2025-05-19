@@ -1,8 +1,8 @@
 ### Hi, I am Dejan 👋
 
-- 🔭 I’m currently building React Native applications with NodeJS backend
-- 🤔 My focus is on Workstream as a Service concept. Stay tuned!
+- 🔭 I’m currently building AI agents with Node/NestJS backend
 - 🌱 I’m currently re-learning Machine learning and getting deeper into emerging AI ecosystem
+- If you need AI solution to fix your business need, then I would like to hear from you!
 
 Get in touch so we can collaborate!
 
